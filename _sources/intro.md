@@ -1,12 +1,11 @@
-# Advanced Simulation Methods
+# Welcome to your Jupyter Book
 
-This is a companion webpage to the MSc course on Advanced Simulation Methods taught at Imperial College London for the academic year 2024-2025. This lecture is delivered by [O. Deniz Akyildiz](https://akyildiz.me).
+This is a small sample book to give you a feel for how book content is
+structured.
+It shows off a few of the major file types, as well as some sample content.
+It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
-Main resources for this year will be the notes (see Blackboard) and notebooks that I will upload here.
-
- See [this page](https://akyildiz.me/stochastic-simulation) for the resources from my undergraduate course, which is largely relevant. See [Bayesian filtering summer course](https://akyildiz.me/ssbf-2024-intro) for some extra material on Bayesian filtering. See also my [LTCC course](https://akyildiz.me/advanced-computational-statistics/intro.html) which also has a significant overlap with this course.
-
-## Table of Contents
+Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
